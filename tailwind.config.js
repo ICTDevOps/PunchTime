@@ -7,6 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        'boxing-red': '#DC2626',
         boxing: {
           red: '#DC2626',
           dark: '#1F2937',
