@@ -9,7 +9,7 @@ lerna-debug.log*
 
 # Dependencies
 node_modules
-dist
+# dist
 dist-ssr
 *.local
 
@@ -32,8 +32,8 @@ dist-ssr
 .env.production.local
 
 # Build outputs
-build/
-dist/
+# build/
+# dist/
 
 # Coverage directory used by tools like istanbul
 coverage/
